@@ -1,0 +1,6 @@
+/.settings
+/bin
+/__pycache__
+*.class
+*.classpath
+*.project
